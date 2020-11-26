@@ -12,9 +12,20 @@
 
 2. 학습된 `챗봇`이 해당하는 질문에 알맞은 대답을 반환한다
 
-  - [pytorch 의 tutorial](https://tutorials.pytorch.kr/beginner/chatbot_tutorial.html)에서의 기본 챗봇과 달리, `멍멍댕댕`은 정보습득을 위한 질문에 알맞은 대답으로 `정보를 전달`하는 데에 초점을 두어야 한다.
+    - [pytorch 의 tutorial](https://tutorials.pytorch.kr/beginner/chatbot_tutorial.html)에서의 기본 챗봇과 달리, `멍멍댕댕`은 정보습득을 위한 질문에 알맞은 대답으로 `정보를 전달`하는 데에 초점을 두어야 한다.
 
-  - 따라서, [피자 주문 챗봇](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot)을 응용한다.
+    - 따라서, [피자 주문 챗봇](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot)을 응용한다.
+
+
+```
+   - 먹어도 되는 / 안되는 음식
+
+   - 견종 별 위험 질병
+
+   - 예방 접종
+
+   - 훈련 방법
+```
 
 ### Requirements
 
