@@ -33,12 +33,20 @@
 
 - `konlpy`
 
+- `mecab-ko`
+
 - `tensorflow`
 
 ### Reference
+
+- 학습에 쓰인 자료: [마이크로소프트웨어: 인터뷰기사, 국립 국어원](https://ithub.korean.go.kr/user/total/database/corpusView.do)
+
+- [Mecab install](https://daewonyoon.tistory.com/259)
 
 - [github: tensormsa_jupyter](https://github.com/TensorMSA/tensormsa_jupyter)
 
 - [Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot)
 
 - [Python과 Tensorflow를 활용한 Al 챗봇 개발 3강](https://www.youtube.com/watch?v=HoT2TheIlUQ&feature=youtu.be)
+
+- []
