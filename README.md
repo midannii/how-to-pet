@@ -35,6 +35,8 @@
 
 - `mecab-ko`
 
+  - 견종에 대한 정보를 고유명사(NNP)로 `mecab`에 [새로 추가](https://little-tree.tistory.com/5)
+
 - `tensorflow`
 
 ### Reference
