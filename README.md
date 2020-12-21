@@ -27,6 +27,8 @@
    - 훈련 방법
 ```
 
+
+
 ### Requirements
 
 - `pandas`
@@ -36,6 +38,8 @@
 - `mecab-ko`
 
   - 견종에 대한 정보를 고유명사(NNP)로 `mecab`에 [새로 추가](https://little-tree.tistory.com/5)
+
+      - 형태소 추가 과정에서 `issue` 발생 : Failed building wheel for python-mecab-ko
 
 - `tensorflow`
 
@@ -50,5 +54,3 @@
 - [Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot)
 
 - [Python과 Tensorflow를 활용한 Al 챗봇 개발 3강](https://www.youtube.com/watch?v=HoT2TheIlUQ&feature=youtu.be)
-
-- []
