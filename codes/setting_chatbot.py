@@ -1,3 +1,7 @@
+'''
+reuse https://github.com/TensorMSA/tensormsa_jupyter/blob/master/chap13_chatbot_lecture/1.Chatbot(Slot).ipynb
+'''
+
 import konlpy
 from konlpy.tag import Mecab
 import pandas as pd
